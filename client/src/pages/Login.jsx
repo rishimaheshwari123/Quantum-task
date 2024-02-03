@@ -33,7 +33,7 @@ const Login = () => {
         alert("User Login Successfully");
         const res_data = res.data;
         storeTokenInLS(res_data.token);
-        navigate("/");
+        navigate("/home");
       }
     } catch (error) {
       console.log("Login Failed ", error);

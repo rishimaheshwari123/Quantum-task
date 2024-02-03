@@ -24,7 +24,7 @@ const Home = () => {
             <tr>
               <td>1</td>
               <td>
-                <img src="./1.png" alt="User Image" />
+                <img src="./images/1.png" alt="User Image" />
                 <span>Muchael Holz</span>
               </td>
               <td>04/10/2013</td>
@@ -62,7 +62,7 @@ const Home = () => {
             <tr>
               <td>2</td>
               <td>
-                <img src="./2.png" alt="User Image" />
+                <img src="./images/2.png" alt="User Image" />
                 <span>Paula Wilson</span>
               </td>
               <td>05/08/2014</td>
@@ -101,7 +101,7 @@ const Home = () => {
             <tr>
               <td>3</td>
               <td>
-                <img src="./3.png" alt="User Image" />
+                <img src="./images/3.png" alt="User Image" />
                 <span>Antonio Moreno</span>
               </td>
               <td>11/05/2015</td>
@@ -140,7 +140,7 @@ const Home = () => {
             <tr>
               <td>4</td>
               <td>
-                <img src="./4.png" alt="User Image" />
+                <img src="./images/4.png" alt="User Image" />
                 <span>Mary Saveley</span>
               </td>
               <td>06/09/2016</td>
@@ -179,7 +179,7 @@ const Home = () => {
             <tr>
               <td>5</td>
               <td>
-                <img src="./5.png" alt="User Image" />
+                <img src="./images/5.png" alt="User Image" />
                 <span>Mary Saveley</span>
               </td>
               <td>12/08/2017</td>
