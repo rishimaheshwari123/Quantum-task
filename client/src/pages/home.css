@@ -1,0 +1,41 @@
+.table-container {
+    margin: 0 auto; /* Center the container */
+    width: 1260px; /* Set the width of the container */
+    padding: 20px
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 20px;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    vertical-align: middle; /* Align content vertically */
+    border-bottom: 1px solid #ddd; /* Add a bottom border */
+    height: 60px; /* Set the height of each row */
+  }
+/* 
+  th {
+    background-color: #f2f2f2;
+  } */
+
+  img {
+    max-width: 50px;
+    max-height: 50px;
+    vertical-align: middle; /* Align image vertically */
+    border-radius: 50%;
+    margin-right: 3px;
+  }
+
+  .action-icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /* Align icons vertically */
+    padding: 42px 3px;
+  }
+  .dot{
+    color: green;
+  }
